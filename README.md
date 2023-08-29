@@ -1,3 +1,3 @@
 # final_SF3
 Итоговый проект
-В данном контейнере собраны два образа (zabbix-server и elk)
+Zabbix-server и Grafana
